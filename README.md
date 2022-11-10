@@ -5,6 +5,7 @@ Here's a short guide on how to use this. I'd recommend you to read the documenta
 ## Netless Functions
 To implement netless you need to set it up and then Enable or Disable it.
 ### Setup Netless
+DefaultValue is used to define if you want to activate netless by default. (Recommended true).
 ```lua
 <void> game.Players.LocalPlayer:SetupNetless(<bool> DefaultValue)
 ```
