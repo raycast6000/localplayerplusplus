@@ -23,3 +23,9 @@ Will destroy the netless loop.
 <void> game.Players.LocalPlayer:ResetNetless()
 ```
 ## Reanimation functions
+To have a comfortable reanimation system, please follow the instructions.
+- Set up your reanimation function
+- Reanimate!
+```lua
+adwad
+```
