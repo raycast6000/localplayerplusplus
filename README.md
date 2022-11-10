@@ -1,7 +1,7 @@
 # LocalPlayer++
 An extension for the player. Useful when making a FE script.
 # Documentation
-Here's a short guide on how to use this. I'd recommend you to read the documentation.
+Here's a short guide on how to use this. I'd recommend you to read the documentation (not provided now).
 ## Netless Functions
 To implement netless you need to set it up and then Enable or Disable it.
 #### Set up Netless
